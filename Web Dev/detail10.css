@@ -1,0 +1,176 @@
+
+.box .image .fit  {
+    display: block;
+    margin-left: 40%;
+    margin-right: auto;
+    width: 30%;
+
+}
+.content p {
+font-family: "Poppins", sans-serif;
+padding-left: 40%;
+}
+ .about{
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;   
+ margin: 0 auto;
+ padding: 50px;
+ overflow-y: hidden;
+padding-top: 120px;
+ width: 400px;
+ font-size: 1.3em;
+ }
+
+ .about h1{
+     width: 100%;
+     text-align: center;
+     font-size: 3em;
+     font-weight: 600;
+ }
+
+ .about p {
+     text-align: center;
+ }
+
+ .Workshop1{
+     display: flex;
+     flex-wrap: wrap;
+     padding-top: 100px;
+ }
+.Workshop1 ul {
+    font-weight: 800;
+    font-size:1.3em;
+}
+
+.Workshop1 li{
+    list-style-type: none;
+}
+ .head{
+     display: flex;
+     flex-wrap:  wrap;
+    justify-content: center;
+    width: 600px;
+    margin: 0 auto;
+ }
+
+ .head h1{
+     text-align: center;
+     font-size: 3em;
+     font-weight: 500;
+ }
+
+ .head p{
+    text-align: center;
+ }
+
+ .head2{
+     display: flex;
+ }
+
+.workshoppackages{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.workshoppackages .head1 h1{
+    font-size: 3em;
+    font-weight:500;
+}
+
+
+.workshoppackages .imagepart{
+    display: flex;
+    width: 100vw; 
+
+}
+
+.workshoppackages .imagepart img{
+    width: 30%;
+    height: 90%;
+    margin: 0 auto;
+}
+
+.icon {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    height:25%;
+    width: 25%;
+}
+
+.achievments {
+    display: flex;
+    padding: 50px 0 40px;
+    background-color: #00A99D;
+    margin-top: 5%;
+}
+
+.achievments h1, .a1, .a2, .a3{
+    font-size: 3.0em;
+    font-weight: 800;
+    color: white;
+    padding: 10px;
+}
+
+.ms .msw {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ms .msw h1{
+    width: 100%;
+    text-align: center; 
+    font-size: 3em;
+    padding: 20px;
+}
+
+.ms .msw .imgpart2{
+    display: flex;
+    flex-wrap: wrap;    
+    justify-content: center;
+    align-items: center;
+}
+
+.ms .msw .imgpart2 .img img{
+    width: 80%;
+    padding: 20px;
+    height: 50%;
+}
+
+.ms .msw .imgpart2 .img{
+    width: 25%;
+    margin: 40px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.past .pastevents{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.past .pastevents h1{
+    font-weight: 500;
+    font-size: 3em;
+    overflow-y: hidden;
+}
+
+.past .xyz{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.past .xyz .img3{
+    width: 50%;
+}
+
+.past .xyz .img3 img{
+    width: 20%;
+}
+button a{
+    color: white
+}
